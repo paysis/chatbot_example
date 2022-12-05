@@ -4,3 +4,93 @@ Hastaneye kayıt aç,0
 Randevu al,0
 Hastaneye randevu nasıl alınır?,0
 Hastaneye kayıt nasıl yaptırılır?,0
+Ne tür medikal tedavi desteği veriyorsun?,1
+Medikal tedavi istiyorum,1
+Sağlık desteği istiyorum,1
+İlaçlarım hakkında bilgi almak istiyorum,1
+Kendi sağlığım hakkında bilgi almak istiyorum,2
+Günlük sağlığım hakkında bilgi ver,2
+Sağlığım hakkında beni bilgilendir,2
+Akıl sağlığım hakkında yardım et,2
+Akıl sağlığı tedavisi istiyorum,2
+Günlük yaşam desteği vermeni istiyorum,2
+Günlük egzersiz planımı göster,2
+Egzersiz planım hakkında bahset,2
+Tansiyon bilgimi göster,2
+Nabzım hakkında ölçümlerimi göster,2
+Çevre kirliliği hakkında bilgi ver,2
+Çevremdeki hava kirliliğinden bahset,2
+Glükoz seviyemden bahset,2
+EKG sonuçlarımı göster,2
+Medikal kayıtlarımı göndereceğim,3
+Medikal görüntülerimi sisteme gönderiyorum,3
+Kan tahlilimi sisteme yükle,3
+Kan tahlili sonuçlarımı göndereceğim,3
+Bir şey mi unuttum,4
+Bir şeyi unutmuşum gibi hissediyorum,4
+Herhangi bir planım var mı,4
+Acil yardıma ihtiyacım var,5
+Ambulansı ara,5
+Acil ambulansa ulaşmam lazım,5
+Burada yaralı insanlar var,5
+Ölü var yardım edin,5
+Ağır yaralandım,5
+Reçetelerimi göster,6
+Doktorumun yazdığı ilaçları göster,6
+İlaçlarımı nasıl görebilirim,6
+Bu ilacı nasıl kullanacağım,7
+İlacımı kullanmanın yolu nedir,7
+İlacı sabah akşam tok karnına mı alacağım,7
+Eczaneden ilaç siparişi vereceğim,8
+İlaç siparişi vermek istiyorum,8
+İlaçlarım kapıma gelsin,8
+Eczane reçetemde yazanları getirsin,8
+Reçetemdeki ilaçları satın almak istiyorum,8
+İlacımın yan etkileri nelerdir,9
+Bu ilaç bana kötü bir şey yapar mı,9
+Bu ilaç baş ağrısı yapar mı,9
+Bu ilaç ishal yapar mı,9
+Bu ilaç kusma yapar mı,9
+Bu ilaç karın ağrısı yapar mı,9
+Bu saatte hangi eczaneler açıktır,10
+Açık eczanelerin listesini göster,10
+Haftasonu çalışan eczaneler hangileridir,10
+Pratisyen hekime randevu almak istiyorum,16
+Pratisyen hekime randevu nasıl alınır,16
+Pratisyen hekimimle görüşmek istiyorum,16
+Pratisyen hekim için randevu al,16
+Genel cerraha randevu almak istiyorum,17
+Genel cerraha randevu nasıl alınır,17
+Genel cerraha randevu al,17
+Cerrah randevusu al,17
+İnternet üzerinden hekim randevusu al,18
+İnternetten randevu al,18
+Hastalığımı bul,19
+Bugün hasta oldum,19
+Bugün kendimi kötü hissediyorum,19
+Baş ağrım var,19
+Ateşim çıktı,19
+Çok halsiz hissediyorum,19
+Kan tahlili sonuçlarımı göster,20
+Kan değerlerim nasıl,20
+Medikal görüntülerimi göster,21
+Radyoloji görüntülerimi göster,21
+Radyoloji görüntülerimi görmek istiyorum,21
+Medikal görüntülerimi görmek istiyorum,21
+Doktorum radyoloji görüntülerini sisteme yükledi mi,21
+Hastanem radyoloji görüntülerimi sisteme yükledi mi,21
+Sistemdeki medikal görüntüleri göster,21
+İlaçlarımı ne zaman kullanmam gerekiyor,22
+İlaçlarımı ne zaman almam gerekiyor,22
+İlaçlarım hakkında beni tekrar bilgilendir,22
+İlaçlarımı ne sıklıkla kullanmalıyım,22
+Aşı ne zaman olacağım,23
+En son ne zaman aşı oldum,23
+Hangi tarihte aşı olabilirim,23
+Aşı durumum hakkında beni bilgilendir,23
+Randevularım hakkında beni bilgilendir,24
+Hastaneye randevum var mı,24
+Randevularım ne zaman,24
+Randevumun tarihini göster,24
+Hangi tarihte randevuma gitmeliyim,24
+Hangi saatte randevuma gitmeliyim,24
